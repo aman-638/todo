@@ -36,7 +36,7 @@ This is a simple task management application built with React, Vite, Tailwind CS
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https://github.com/aman-638/todo.git
 
    ```
 
@@ -54,12 +54,12 @@ This is a simple task management application built with React, Vite, Tailwind CS
 
    - Create a .env file in the root of your project and add your Firebase configuration details:
 
-   VITE_FIREBASE_API_KEY=your_api_key
-   VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
-   VITE_FIREBASE_PROJECT_ID=your_project_id
-   VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket
-   VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
-   VITE_FIREBASE_APP_ID=your_app_id
+      - VITE_FIREBASE_API_KEY=your_api_key
+      - VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
+      - VITE_FIREBASE_PROJECT_ID=your_project_id
+      - VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+      - VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
+      - VITE_FIREBASE_APP_ID=your_app_id
 
 4. **Run the application:**
 
